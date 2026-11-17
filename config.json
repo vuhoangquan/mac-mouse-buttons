@@ -1,0 +1,19 @@
+{
+  "threshold": 30,
+  "buttons": {
+    "3": {
+      "click": "missionControl",
+      "up": "missionControl",
+      "down": "appExpose",
+      "left": "desktopLeft",
+      "right": "desktopRight"
+    },
+    "4": {
+      "click": "launchpad",
+      "up": "missionControl",
+      "down": "showDesktop",
+      "left": "desktopLeft",
+      "right": "desktopRight"
+    }
+  }
+}
